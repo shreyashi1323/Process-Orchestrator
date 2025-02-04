@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;700&display=swap');
+body{
+  background: linear-gradient(90deg, hsla(186, 33%, 94%, 1) 0%, hsla(216, 41%, 79%, 1) 100%);
+}
+#main{
+  margin-top: 10px;
+}
+
+.navbar{
+  background: linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%);
+}
+#btnCalculate{
+  font-family: 'Nunito', sans-serif;
+  font-weight: 600;
+  font-size: 22px;
+  border: 0px;
+  background: linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%);
+  margin-top: 50px;
+  
+}
+#resetBtn{
+  padding-top: 6px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+#gtdBurstTime{
+   background: linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%);
+}
+#ganttChart{
+  font-family: 'Nunito', sans-serif; 
+  font-size: 40px;
+  size: 100px;
+}
+#gtdProcessID{
+  padding-left: 25px;
+  padding-right: 25px;
+  
+}
+h3{
+  font-family: 'Nunito', sans-serif;
+  font-weight: 700;
+}
+b{
+  font-family: 'Nunito', sans-serif;
+}
+label{  
+  font-family: 'Nunito', sans-serif; 
+}
+p{  
+  font-family: 'Nunito', sans-serif; 
+  font-size: 25px;
+}
+.buttonAlgo{
+    border-radius: 15px !important; 
+    width: 70px;
+}
+
+#timeQuantum{
+  width: 80px;
+}
+
+.table-bordered{
+  background: linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%);
+}
